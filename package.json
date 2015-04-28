@@ -1,0 +1,17 @@
+{
+  "name": "functional-examples",
+  "description": "Some hopefully useful examples of different levels of functional programming",
+  "version": "1.0.0",
+  "main": "example4.js",
+  "author": "Erik Solen",
+  "scripts": {
+    "start": "node example4.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "3.7.0",
+    "moment-timezone": "0.3.1",
+    "transducers-js": "0.4.164",
+    "underscore": "1.8.3"
+  }
+}

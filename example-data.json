@@ -1,0 +1,96 @@
+{
+    "meta": {
+        "query": {
+            "date": {
+                "interval": "hour",
+                "start": "2015-04-27T04:00:00.000Z",
+                "end": "2015-04-28T04:00:00.000Z"
+            },
+            "metrics": ["impression", "click", "impression_cost", "click_cost", "impression_revenue", "click_revenue"]
+        },
+        "server": {
+            "time": "2015-04-27T13:26:17.063Z"
+        }
+    },
+    "results": [{
+        "start": "2015-04-27T04:00:00.000Z",
+        "impression": 553260,
+        "impression_revenue": 965.0414062037053,
+        "impression_cost": 1564.3692393300007,
+        "click": 1315,
+        "click_revenue": 1888.420002579689,
+        "click_cost": 0
+    }, {
+        "start": "2015-04-27T05:00:00.000Z",
+        "impression": 354270,
+        "impression_revenue": 533.503389744521,
+        "impression_cost": 998.8148918850347,
+        "click": 937,
+        "click_revenue": 1354.2400010228157,
+        "click_cost": 2.4149999618530273
+    }, {
+        "start": "2015-04-27T06:00:00.000Z",
+        "impression": 219209,
+        "impression_revenue": 309.548888844085,
+        "impression_cost": 616.3823614668217,
+        "click": 848,
+        "click_revenue": 1419.3900076150894,
+        "click_cost": 0
+    }, {
+        "start": "2015-04-27T07:00:00.000Z",
+        "impression": 157491,
+        "impression_revenue": 225.5913394955278,
+        "impression_cost": 424.90982609282946,
+        "click": 928,
+        "click_revenue": 1418.2899991869926,
+        "click_cost": 0.699999988079071
+    }, {
+        "start": "2015-04-27T08:00:00.000Z",
+        "impression": 136409,
+        "impression_revenue": 200.09741999247854,
+        "impression_cost": 353.1762554193265,
+        "click": 777,
+        "click_revenue": 1116.350003182888,
+        "click_cost": 0
+    }, {
+        "start": "2015-04-27T09:00:00.000Z",
+        "impression": 145681,
+        "impression_revenue": 239.9076099033009,
+        "impression_cost": 375.3816256634309,
+        "click": 862,
+        "click_revenue": 1030.9199998378754,
+        "click_cost": 0
+    }, {
+        "start": "2015-04-27T10:00:00.000Z",
+        "impression": 196549,
+        "impression_revenue": 287.37439952054774,
+        "impression_cost": 516.8341412453447,
+        "click": 857,
+        "click_revenue": 1009.8800002932549,
+        "click_cost": 4.1999998688697815
+    }, {
+        "start": "2015-04-27T11:00:00.000Z",
+        "impression": 298049,
+        "impression_revenue": 456.4904971665528,
+        "impression_cost": 793.8040229077451,
+        "click": 995,
+        "click_revenue": 1205.4400005936623,
+        "click_cost": 0
+    }, {
+        "start": "2015-04-27T12:00:00.000Z",
+        "impression": 462212,
+        "impression_revenue": 805.6121035970209,
+        "impression_cost": 1250.2059068321832,
+        "click": 1501,
+        "click_revenue": 1689.1500008106232,
+        "click_cost": 1.7499999403953552
+    }, {
+        "start": "2015-04-27T13:00:00.000Z",
+        "impression": 244678,
+        "impression_revenue": 405.0363058691182,
+        "impression_cost": 666.2591201965115,
+        "click": 697,
+        "click_revenue": 793.020000576973,
+        "click_cost": 1.399999976158142
+    }]
+}
